@@ -3,5 +3,5 @@ MKE Dispatched Calls for Service - Google Scripts -> Google Sheets Scraper. Scra
 
 
 # Before
-![screenshot](img/before.png "Description goes here")
+![screenshot](img/before.PNG "Description goes here")
 
