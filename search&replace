@@ -1,0 +1,5 @@
+var sheet = SpreadsheetApp.getActiveSheet();  
+var range = sheet.getRange("C:C");   
+range.setValues(range.getValues().map(function(row) {
+  return [row[0].replace(/MKE$/, "Milwaukee, WI")];
+}));
